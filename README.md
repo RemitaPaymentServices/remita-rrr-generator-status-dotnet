@@ -23,7 +23,6 @@ using static RemitaGenRRRStatus.WebClientUtil;
 
 namespace RemitaGenRRRStatus
 {
- 
     public class RemitaGenRRRStatus
     {
         public static string DEMO = "https://remitademo.net";
